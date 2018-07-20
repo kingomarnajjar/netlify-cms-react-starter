@@ -1,5 +1,5 @@
 ---
-title: Hello World!
+title: How to make and sell an item
 status: Featured / Published
 date: '2018-03-27'
 postFeaturedImage: /images/uploads/tim-marshall-155597.jpg
